@@ -1,0 +1,21 @@
+/*
+* Isabella Ceresini
+* March 25, 2019
+* Schedule/My Padua semester schedule for Freshmen year 2019
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+body {
+    background-color: lavender
+
+}
+table, td, th {border: 1px solid black;}
+table{border-collapse: collapse;}
+thead{background-color:lightskyblue;}
+tfoot{background-color:lightpink;}
